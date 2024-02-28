@@ -1,0 +1,25 @@
+{
+  "name": "simplereactdialogcomponent",
+  "version": "1.0.6",
+  "description": "This is a simple React dialog component",
+  "main": "Dialog.jsx",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FischKevin/DA-JS-Projet14-DialogComponent.git"
+  },
+  "keywords": [
+    "simple",
+    "react",
+    "dialog",
+    "component"
+  ],
+  "author": "Kevin Fischer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FischKevin/DA-JS-Projet14-DialogComponent/issues"
+  },
+  "homepage": "https://github.com/FischKevin/DA-JS-Projet14-DialogComponent#readme"
+}
