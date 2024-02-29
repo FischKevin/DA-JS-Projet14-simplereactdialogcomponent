@@ -1,6 +1,6 @@
 {
   "name": "simplereactdialogcomponent",
-  "version": "1.0.6",
+  "version": "1.0.8",
   "description": "This is a simple React dialog component",
   "main": "Dialog.jsx",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/FischKevin/DA-JS-Projet14-DialogComponent.git"
+    "url": "git+https://github.com/FischKevin/DA-JS-Projet14-simplereactdialogcomponent.git"
   },
   "keywords": [
     "simple",
@@ -16,10 +16,15 @@
     "dialog",
     "component"
   ],
+  "peerDependencies": {
+    "react": "^18.2.55",
+    "react-dom": "^18.2.19",
+    "prop-types": "^15.8.1"
+  },
   "author": "Kevin Fischer",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/FischKevin/DA-JS-Projet14-DialogComponent/issues"
+    "url": "https://github.com/FischKevin/DA-JS-Projet14-simplereactdialogcomponent/issues"
   },
-  "homepage": "https://github.com/FischKevin/DA-JS-Projet14-DialogComponent#readme"
+  "homepage": "https://github.com/FischKevin/DA-JS-Projet14-simplereactdialogcomponent#readme"
 }
